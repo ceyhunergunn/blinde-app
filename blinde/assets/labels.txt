@@ -1,0 +1,16 @@
+laptop
+ağaç
+araba
+bardak
+direk
+duvar
+kaldırım
+kapı
+kedi
+köpek
+özel yaya yolu
+sandalye
+şişe
+yatak
+tabela
+masa
